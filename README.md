@@ -4,7 +4,7 @@ CheapoMax is a comprehensive platform featuring a dedicated real estate section 
 
 **WaterWellWorx** is a comprehensive marketplace platform designed for buying and selling water well equipment and services. Built on the **Brilliant Directories** platform, it empowers users to connect with service providers and sellers within the water well industry. The platform ensures a seamless exchange of goods and services through a community-driven approach.
 
-![WaterWellWorx Banner](https://github.com/user-attachments/assets/placeholder-for-image)
+![image](https://github.com/user-attachments/assets/b1c681c2-2491-4ff9-acf6-b838bf58753d)
 
 ## ✨ Features
 
@@ -17,7 +17,8 @@ CheapoMax is a comprehensive platform featuring a dedicated real estate section 
 - **User Reviews & Ratings**: Build trust in the community by reviewing services and rating service providers.
 - **Efficient Lead Generation**: Direct messaging and inquiry systems that connect buyers with sellers in real-time.
 
-![WaterWellWorx Features](https://github.com/user-attachments/assets/placeholder-for-image)
+  ![Office Space Feature](https://github.com/user-attachments/assets/fb449b5e-8762-4cb9-90b2-79a21f4f4f7c)
+
 
 ## 🛠️ Built With
 
